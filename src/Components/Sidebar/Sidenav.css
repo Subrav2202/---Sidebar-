@@ -1,0 +1,27 @@
+
+.header {
+  background-image: linear-gradient(#fc3d03, #db5ea3);
+  font-family: "Open Sans", sans-serif;
+  font-family: "Zen Dots", cursive;
+  font-weight: 500;
+  color: white;
+}
+.menus:hover {
+background-color:#24334d ;
+}
+#active{
+  color:magenta;
+  background-color:darkslategrey;
+}
+#notactive{
+  background-color: "#030214";
+}
+.wthname{
+  width:20px;
+  height:20px;
+}
+.woutname{
+  width:40px;
+  height:40px;
+}
+
